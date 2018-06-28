@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 git_source(:github) do |repo_name|
-  "https://github.com/#{repo_name}.git"
+  "https://github.com/#{zampl/zampl.github.io}.git"
 end
 
 gemspec
