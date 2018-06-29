@@ -1,7 +1,5 @@
 # It's Zampl
 
-## About Zampl
-
 Zampl (from the word "Example") is a site I use as a writer to test GitHub functionality and to get screenshots. The URL to view the rendered site is **[zampl.github.io](http://zampl.github.io)**.
 
 There is a marketing software company called [Zample](https://www.linkedin.com/company/zampl/). This is not that company; the fact that we have the same name is just a coincidence.
