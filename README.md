@@ -6,6 +6,8 @@ There is a marketing software company called [Zample](https://www.linkedin.com/c
 
 Thank you for visiting.
 
+— _Derek Gamlyn_
+
 ## Links to helpful online resources
 
 Here are some online resources I have found to be extremely helpful in learning about Git and GitHub.
