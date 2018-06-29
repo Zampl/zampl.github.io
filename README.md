@@ -15,4 +15,4 @@ Here are some online resources I have found to be extremely helpful in learning 
 - [GitHub Help](https://help.github.com/)
 - [GitHub Glossary](https://help.github.com/articles/github-glossary/)
 
-Acknowledgement: This site was set up using code and examples provided by Jonathan McGlone in his article ([Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)) distributed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
+Acknowledgement: This site was set up using code and examples provided by Jonathan McGlone in his article ([Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)) distributed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US). I have modified the code for my purposes.
